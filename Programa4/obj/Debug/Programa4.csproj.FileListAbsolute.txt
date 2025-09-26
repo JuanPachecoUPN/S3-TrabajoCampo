@@ -1,0 +1,8 @@
+D:\WS_FA_UPN\Programa4\Programa4\bin\Debug\Programa4.exe.config
+D:\WS_FA_UPN\Programa4\Programa4\bin\Debug\Programa4.exe
+D:\WS_FA_UPN\Programa4\Programa4\bin\Debug\Programa4.pdb
+D:\WS_FA_UPN\Programa4\Programa4\obj\Debug\Programa4.csproj.AssemblyReference.cache
+D:\WS_FA_UPN\Programa4\Programa4\obj\Debug\Programa4.csproj.CoreCompileInputs.cache
+D:\WS_FA_UPN\Programa4\Programa4\obj\Debug\Programa4.exe
+D:\WS_FA_UPN\Programa4\Programa4\obj\Debug\Programa4.pdb
+D:\WS_FA_UPN\Programa4\Programa4\obj\Debug\Programa4.exe.config
