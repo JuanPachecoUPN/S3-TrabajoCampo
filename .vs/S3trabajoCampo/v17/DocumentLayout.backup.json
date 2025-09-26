@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WS_FA_UPN\\S3trabajoCampo\\",
+  "WorkspaceRootPath": "D:\\Documentos Luis\\UPN Drive\\Ciclo 4\\Fundamentos de Algoritmo\\GitHub PraCampo\\S3-TrabajoCampo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C784448-B882-4742-B2C1-3AC7AC5E0D4A}|S3trabajoCampo\\S3trabajoCampo.csproj|d:\\ws_fa_upn\\s3trabajocampo\\s3trabajocampo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C784448-B882-4742-B2C1-3AC7AC5E0D4A}|S3trabajoCampo\\S3trabajoCampo.csproj|d:\\documentos luis\\upn drive\\ciclo 4\\fundamentos de algoritmo\\github pracampo\\s3-trabajocampo\\s3trabajocampo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C784448-B882-4742-B2C1-3AC7AC5E0D4A}|S3trabajoCampo\\S3trabajoCampo.csproj|solutionrelative:s3trabajocampo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WS_FA_UPN\\S3trabajoCampo\\S3trabajoCampo\\Program.cs",
+              "DocumentMoniker": "D:\\Documentos Luis\\UPN Drive\\Ciclo 4\\Fundamentos de Algoritmo\\GitHub PraCampo\\S3-TrabajoCampo\\S3trabajoCampo\\Program.cs",
               "RelativeDocumentMoniker": "S3trabajoCampo\\Program.cs",
-              "ToolTip": "D:\\WS_FA_UPN\\S3trabajoCampo\\S3trabajoCampo\\Program.cs",
+              "ToolTip": "D:\\Documentos Luis\\UPN Drive\\Ciclo 4\\Fundamentos de Algoritmo\\GitHub PraCampo\\S3-TrabajoCampo\\S3trabajoCampo\\Program.cs",
               "RelativeToolTip": "S3trabajoCampo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T20:26:54.708Z",
               "EditorCaption": ""
