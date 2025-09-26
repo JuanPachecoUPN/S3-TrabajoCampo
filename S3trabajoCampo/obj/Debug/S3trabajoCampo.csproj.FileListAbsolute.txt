@@ -1,0 +1,7 @@
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S3-TrabajoCampo\S3trabajoCampo\bin\Debug\S3trabajoCampo.exe.config
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S3-TrabajoCampo\S3trabajoCampo\bin\Debug\S3trabajoCampo.exe
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S3-TrabajoCampo\S3trabajoCampo\bin\Debug\S3trabajoCampo.pdb
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S3-TrabajoCampo\S3trabajoCampo\obj\Debug\S3trabajoCampo.csproj.AssemblyReference.cache
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S3-TrabajoCampo\S3trabajoCampo\obj\Debug\S3trabajoCampo.csproj.CoreCompileInputs.cache
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S3-TrabajoCampo\S3trabajoCampo\obj\Debug\S3trabajoCampo.exe
+D:\Documentos Luis\UPN Drive\Ciclo 4\Fundamentos de Algoritmo\GitHub PraCampo\S3-TrabajoCampo\S3trabajoCampo\obj\Debug\S3trabajoCampo.pdb
