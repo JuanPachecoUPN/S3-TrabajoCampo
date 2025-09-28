@@ -1,0 +1,7 @@
+C:\TAREAS C#\Programa 1\Programa 1\bin\Debug\Programa 1.exe.config
+C:\TAREAS C#\Programa 1\Programa 1\bin\Debug\Programa 1.exe
+C:\TAREAS C#\Programa 1\Programa 1\bin\Debug\Programa 1.pdb
+C:\TAREAS C#\Programa 1\Programa 1\obj\Debug\Programa 1.csproj.AssemblyReference.cache
+C:\TAREAS C#\Programa 1\Programa 1\obj\Debug\Programa 1.csproj.CoreCompileInputs.cache
+C:\TAREAS C#\Programa 1\Programa 1\obj\Debug\Programa 1.exe
+C:\TAREAS C#\Programa 1\Programa 1\obj\Debug\Programa 1.pdb
